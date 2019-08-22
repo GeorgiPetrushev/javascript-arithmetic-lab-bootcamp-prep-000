@@ -17,3 +17,11 @@ function divide(a,b){
   number = a / b;
   return number;
 }
+function inc(a){ //Increment a by 1 and return the result.
+  number = a + 1;
+  return number;
+}
+function dec(a){ //Decrement a by 1 and return the result.
+  number = a - 1;
+  return number;
+}
