@@ -27,6 +27,6 @@ function inc(a)
 function dec(a)
 {
   
-  number = a--;
+  number = --a;
   return number;
 }
