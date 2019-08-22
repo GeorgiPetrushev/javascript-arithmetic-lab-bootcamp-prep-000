@@ -21,7 +21,7 @@ function inc(a)
 {
   
   
-  number = a + 1;
+  number = a++;
   return number;
 }
 function dec(a)
